@@ -1,0 +1,12 @@
+GET http://localhost:8080/{PUT%20/v1/user/update-description/{userId}/}
+
+###
+
+GET http://localhost:8080/{POST%20/v1/bid,%20consumes%20[application/json],%20produces%20[application/json]}
+
+###
+
+GET http://localhost:8080/{POST%20/project,%20consumes%20[application/json],%20produces%20[application/json]}
+
+###
+
